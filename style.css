@@ -97,7 +97,6 @@ body {
   border: 1px solid #FFFFFF;
   justify-content: space-between;
   border-radius: 8rem;
-  cursor: pointer;
   flex: 0 0 auto;
 }
 .department:hover {
